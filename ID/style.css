@@ -1,0 +1,29 @@
+/* styles.css */
+
+.paragraph {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#specialParagraph {
+    font-weight: bold;
+    color: blue;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#redBox {
+    background-color: red;
+    color: white;
+}
+
+#blueBox {
+    background-color: blue;
+    color: white;
+}
